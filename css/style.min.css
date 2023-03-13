@@ -608,6 +608,14 @@ section.bg-grey .square-right:after {
 #pricing {
   color: #fff; }
 
+.gameplay-icon {
+  background-image: url(/img/blog-1.jpg);
+  background-size: contain;
+  display: inline-block;
+  height: 45px; 
+  width: 45px; 
+}
+
 .price-holder {
   padding-bottom: 60px; }
 
